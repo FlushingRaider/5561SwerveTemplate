@@ -4,7 +4,7 @@
     "id": 16,
     "canbus": "Drive"
   },
-  "invertedIMU": false,
+  "invertedIMU": true,
   "modules": [
     "frontleft.json",
     "frontright.json",
